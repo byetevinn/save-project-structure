@@ -49,7 +49,7 @@ Um arquivo `project_structure.json` será gerado com a seguinte estrutura:
 2. Execute o script:
 
 ```bash
-python main.py
+python structure.py
 ```
 
 3. O arquivo `project_structure.json` será criado com a estrutura do projeto.
@@ -59,7 +59,7 @@ python main.py
 ## 📦 Arquivos do Projeto
 
 - `.gitignore`: configurações de arquivos/pastas a serem ignorados pelo Git.
-- `main.py`: script principal para gerar a estrutura JSON.
+- `structure.py`: script principal para gerar a estrutura JSON.
 - `README.md`: este arquivo de documentação.
 
 ---
