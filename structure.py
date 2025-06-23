@@ -18,6 +18,7 @@ IGNORE_ALL = [
     ".git",
     ".env",
     "README.md",
+    "structure.py",
 ]
 
 # Lista de pastas onde os arquivos devem ser ignorados (mas subpastas são permitidas)
